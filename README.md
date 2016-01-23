@@ -4,7 +4,7 @@ The Graph128 is a super-lightweight and flexible graphing calculator designed fo
 
 #### Features
 
-* It's easy to use - just use the joystick to move the cursor, and click with the button
+* It's easy to use - just use a joystick to move the cursor, and click with a button
 
 * It's customizable - four unique colorschemes *just for you*
 
@@ -40,11 +40,14 @@ The Graph128 is a super-lightweight and flexible graphing calculator designed fo
 
 - This will open up the function editor.  Navigate to the gigantic “OK” button in the corner.
 
-- Look at graphs!  Fun!
+- Look at the graph!
 
 ##### To create an equation from scratch:
+
   - Follow the first step above. (psst: turn it on)
+  
   - Select “Create Graph” in the main menu.
+  
   - Click the elements you want to add to the equation.
 
     - If you make a mistake, the “del” button will delete ONE character at a time from the end (like a backspace)
@@ -73,6 +76,7 @@ You can use this to tweak the existing colorschemes to your liking.
 
 * The Atmegas are not linked with SPI, so it is safe to use an ISP on each one without interfering with the other.
 
+* *The hardware itself was prototyped on a breadboard.  [Here's a crude diagram of the layout](/hw_layout.png)*
 
 ##### Wishful thinking
 
@@ -81,6 +85,7 @@ You can use this to tweak the existing colorschemes to your liking.
 * Persistent memory slots
 
 * Expanded function input as well as support for longer functions (for now they are limited only by how much fits on the screen)
+
 
 
 P.S. This project was mostly coded from the bottom up over the course of 2 days.
