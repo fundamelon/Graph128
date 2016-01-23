@@ -12,7 +12,7 @@
  */
 
 #include <stdint.h>
-#include <avr/eeprom.h>
+//#include <avr/eeprom.h>
 #include "util.h"
 #include "lcd_st7735.h"
 
